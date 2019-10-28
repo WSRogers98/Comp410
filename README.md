@@ -1,3 +1,3 @@
 # Comp410 UNC Chapel Hill
-For personal use only, do not copy.
-only 5 assignments were done in this class due to a hurricane and a water crisis on campus.
+This repository is for personal  and resume use only, please do not copy as your own work.
+copying code is an honor court violation.
